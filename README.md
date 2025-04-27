@@ -1,5 +1,3 @@
 # florasyo.github.io
-
-https://florasyo.github.io
-
-https://johniel-afk.github.io/florasyo-site
+click to visit site
+https://florasyo.github.io/
